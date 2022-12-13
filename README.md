@@ -3,7 +3,7 @@ A chrome extension to fetch and display jokes to the user using the icanhazdadjo
 
 ## Screenshots:
 
-!(https://github.com/namangarg2000/AnyTimeJoke/blob/main/screenshots/loading.png?raw=true)
+![Loading Page](https://github.com/namangarg2000/AnyTimeJoke/blob/main/screenshots/loading.png)
 
 !(https://github.com/namangarg2000/AnyTimeJoke/blob/main/screenshots/joke.png?raw=true)
 
